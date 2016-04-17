@@ -32,7 +32,10 @@ Digging subjects deeper
 : Because writing requires to research your subject thoroughly, you end up more knowledgable about it.
 
 Getting motivation
-: Doing things, like writing a blog, makes it easier to involve in other activities. It's basic maths. Doing one more thing when you are already doing N feels easier than doing one more thing when you are doing none. Plus, blogging about something you have accomplished is always rewarding.
+: Communicating about what you do is an incentive to continue. And writing about something you accomplished is always rewarding.
+
+Getting in a habit
+: Doing things, like writing a blog, makes it easier to involve in other activities. It's basic maths. Doing one more thing when you are already doing N feels easier than doing one more thing when you are doing none.
 
 Keeping records
 : Be it techniques, tips, links to valuable resources, stories, or my own progress, my blog will always remember them, and so do I.
