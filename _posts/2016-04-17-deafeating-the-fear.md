@@ -26,7 +26,7 @@ For some, "better is the enemy of good". For perfectionists, bad (which most of 
 So yeah, breaking the ice of perfection and the fear that accompanies it is my main motivation here. But there are others, of course:
 
 Improving writing skills
-: This general skill, in turns, improves analytical skills, English skill (French is my mother tongue), and oral communication.
+: This general skill, in turn, improves analytical skills, English skill (French is my mother tongue), and oral communication.
 
 Digging subjects deeper
 : Because writing requires to research your subject thoroughly, you end up more knowledgable about it.
