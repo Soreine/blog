@@ -3,6 +3,7 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
+This is my blog. You can find my personal page [here](https://soreine.github.io/). Here, you can expect reading about programming, video games, music, or art.
 
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+This blog is made using [Jekyll](http://jekyllrb.com), based on the theme [Kiko](http://github.com/gfjaru/Kiko).
+
