@@ -16,7 +16,7 @@ And it starts here, as I am writing down my thoughts, knowing that you, a passer
 I spend too much time wandering, stopping at every title, sentence, sometimes word, to wonder if it is right. Often, I remember about some rule or advice I had read and start panicking because I have not applied it. What did it say again? Where can I find this information again? And here I am, searching the Internet for a good ten minutes. [Capitalization of headings](http://titlecapitalization.com/), [style checking](http://www.hemingwayapp.com/), [structuring an article](http://engineerwriting.jottit.com/), etc.
 
 > Start simple, iterate from here
-> -- Someone, someday. Actually my boss
+> -- [Someone](https://twitter.com/SamyPesse), someday
 
 Every task can seem daunting at first. Especially if you want to ace it on first try.
 For some, "better is the enemy of good". For perfectionists, bad (which most of the time is actually fine) is just better than nothing. Heck, this is just a blog post. Just write down your main ideas, weave around it, it's done!
