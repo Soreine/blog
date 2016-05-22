@@ -1,5 +1,6 @@
 ---
 title: "The Humanity of Irregularities"
+audiotags: true
 # jekyll-seo-tag
 description: "When music comes from the soul."
 author: "Soreine"

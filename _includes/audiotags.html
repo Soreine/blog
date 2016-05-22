@@ -1,0 +1,18 @@
+<script>
+ var audiosCollection = document.getElementsByTagName('audio');
+ console.log(audiosCollection);
+ var audios = [];
+ for (var i = 0; i < audiosCollection.length; i++) {
+     audios.push(audiosCollection.item(i));
+ }
+
+ audios.forEach(function (audio) {
+     audio.addEventListener('play', function pauseOthers(e) {
+         audios.forEach(function (a) {
+             if (a !== audio) {
+                 a.pause();
+             }
+         });
+     });
+ });
+</script>
