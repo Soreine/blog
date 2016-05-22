@@ -10,7 +10,7 @@ author: "Soreine"
     Music, especially from a theoretical point of view, looks strict and ordered, in all its perfect and mathematical beauty. But the music that strikes you deep inside, moves you, grabs your soul and makes you thrill, is the one that feels human in all its irregularities.
 </p>
 
-One of the main reason a piece of music will speak to someone is because it resonates with her memories, her own way of feeling and experiencing the world. This is very culture-dependent and a musician cannot do much about it, but to compose according to her own experiences.
+One of the main reason a piece of music will speak to someone is because it resonates with their memories, their own way of feeling and experiencing the world. This is very culture-dependent and a musicians cannot do much about it, but to compose according their own experiences.
 
 However, there is something that all humans have in common: strong emotions trigger uncontrolled physiological responses. What happens when you are about to cry, when anger rises, or when you are excited ? Your body starts shaking, your voice trembles, or becomes weak. That slight lost of control also happens when you play music. Your playing becomes irregular too, and people can sense the emotion. This irregularity, skilled musicians will regulate it. Enough irregularity to suggests strong feelings, but not too much to keep it pleasing and decent.
 
