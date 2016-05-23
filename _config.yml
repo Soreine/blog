@@ -43,7 +43,7 @@ exlude:
   - .working/
 # Disqus
 enable_disqus: true
-disqus_short_name: soreine-github-io-blog
+disqus_short_name: soreinegithubioblog
 
 gems:
   - jekyll-seo-tag
