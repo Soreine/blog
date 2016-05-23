@@ -39,5 +39,11 @@ defaults:
     values:
       layout:       "post"
 
+exlude:
+  - .working/
+# Disqus
+enable_disqus: true
+disqus_short_name: soreine-github-io-blog
+
 gems:
   - jekyll-seo-tag
