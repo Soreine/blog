@@ -29,13 +29,13 @@ Improving writing skills
 : This general skill, in turn, improves analytical skills, English skill (French is my mother tongue), and oral communication.
 
 Digging subjects deeper
-: Because writing requires to research your subject thoroughly, you end up more knowledgable about it.
+: Because writing requires to research your subject thoroughly, you end up more knowledgeable about it.
 
 Getting motivation
 : Communicating about what you do is an incentive to continue. And writing about something you accomplished is always rewarding.
 
 Getting in a habit
-: Doing things, like writing a blog, makes it easier to involve in other activities. It's basic maths. Doing one more thing when you are already doing N feels easier than doing one more thing when you are doing none.
+: Doing things, like writing a blog, makes it easier to involve in other activities. It's basic maths. Doing `N+1` things when you now how to do `N` feels easier the greater the `N`.
 
 Keeping records
 : Be it techniques, tips, links to valuable resources, stories, or my own progress, my blog will always remember them, and so do I.
@@ -44,7 +44,7 @@ Alleviating my [web page](https://soreine.github.io)
 : Not that it is overloaded with content, but I want to keep it separate from blogging.
 
 
-I would gladly have concluded with a list rules and best practices I would like to follow for this blog. But they would become added barriers to my blogging, so I'd better not :)
+I would gladly have concluded with a list rules and best practices for me to follow, writing this blog. But they would have been additional barriers to my blogging, so I'd better not :)
 
 
 
