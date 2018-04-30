@@ -42,8 +42,8 @@ defaults:
 exlude:
   - .working/
 # Disqus
-enable_disqus: true
-disqus_short_name: soreinegithubioblog
+enable_disqus: false
+# disqus_short_name: soreinegithubioblog
 
 gems:
   - jekyll-seo-tag
